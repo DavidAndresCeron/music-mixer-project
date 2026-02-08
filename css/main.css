@@ -1,0 +1,16 @@
+/* -- Header -- */
+
+#main-nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+#main-nav li {
+    display: inline-block;
+}
+
+#main-nav li a {
+    display: block;
+    padding-right: 50px;
+    text-decoration: none;
+}
